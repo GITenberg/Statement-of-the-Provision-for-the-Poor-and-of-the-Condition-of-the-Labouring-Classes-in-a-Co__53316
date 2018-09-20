@@ -1,0 +1,30 @@
+_repo: Statement-of-the-Provision-for-the-Poor-and-of-the-Condition-of-the-Labouring-Classes-in-a-Co__53316
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Senior, Nassau William
+    alias: Senior, Nassau W.
+    birthdate: 1790
+    deathdate: 1864
+    gutenberg_agent_id: '39821'
+    url: http://www.gutenberg.org/2009/agents/39821
+description: ''
+gutenberg_issued: '2016-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53316'
+  lccn: 09003972
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor -- Europe'
+- !lcsh 'Working class'
+- !lcc 'HV'
+- !lcsh 'Poor -- United States'
+- GITenberg
+title: "Statement of the Provision for the Poor, and of the Condition of the Labouring\
+  \ Classes in a Considerable Portion of America and Europe\r\nBeing the preface to\
+  \ the foreign communications contained in the appendix to the Poor-Law Report"
+url: http://www.gutenberg.org/ebooks/53316
