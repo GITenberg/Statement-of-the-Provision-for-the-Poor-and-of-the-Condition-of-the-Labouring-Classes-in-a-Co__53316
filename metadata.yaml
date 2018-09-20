@@ -1,5 +1,8 @@
 _repo: Statement-of-the-Provision-for-the-Poor-and-of-the-Condition-of-the-Labouring-Classes-in-a-Co__53316
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53316-h/images/cover.jpg
 creator:
   author:
     agent_name: Senior, Nassau William
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39821'
     url: http://www.gutenberg.org/2009/agents/39821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53316#Statement-of-the-Provision-for-the-Poor-and-of-the-Condition-of-the-Labouring-Classes-in-a-Co_
 gutenberg_issued: '2016-10-18'
 gutenberg_type: Text
 identifiers:
